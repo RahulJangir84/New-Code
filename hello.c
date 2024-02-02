@@ -5,5 +5,7 @@ int main(){
     int b = 5;
     printf(a+b);
     printf("Rahul Jangir");
+    printf(a*b);
+    printf("a-b");
     return 0;
 }
